@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "3zkujhrjigkid0rw0DVWSB",
+    "name" : "PO-Correio",
+    "type" : "PROCESS_OBJECT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "zjBeE1KoJBUhtyc-gt-3146104-2020-10-15T12:23:28.414Z::po.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ ]
+}

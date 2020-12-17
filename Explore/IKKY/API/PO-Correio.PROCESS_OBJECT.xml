@@ -1,0 +1,43 @@
+<aetgt:getResponse xmlns:aetgt="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd"
+                   xmlns:types1="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd">
+   <types1:Item>
+      <types1:EntryId>zjBeE1KoJBUhtyc-gt-3146104-2020-10-15T12:23:28.414Z::po.xml</types1:EntryId>
+      <types1:Name>PO-Correio</types1:Name>
+      <types1:ParentFlowIds>34XutaaabbgdoGs-gt-2154711-2020-10-15T12:23:28.871Z::pd.xml</types1:ParentFlowIds>
+      <types1:MimeType>application/xml+processobject</types1:MimeType>
+      <types1:Description/>
+      <types1:AppliesTo/>
+      <types1:Tags/>
+      <types1:VersionLabel>1.0</types1:VersionLabel>
+      <types1:State>CURRENT</types1:State>
+      <types1:ProcessGroup/>
+      <types1:CreatedBy>LATAM_NA2</types1:CreatedBy>
+      <types1:CreationDate>2020-10-15T12:23:28Z</types1:CreationDate>
+      <types1:ModifiedBy/>
+      <types1:PublicationStatus>unpublished</types1:PublicationStatus>
+      <types1:AutosaveExists>false</types1:AutosaveExists>
+      <types1:Entry>
+         <processObject xmlns="http://schemas.active-endpoints.com/appmodules/screenflow/2011/06/avosHostEnvironment.xsd"
+                        displayName="PO-Correio"
+                        isByCopy="true"
+                        name="PO-Correio">
+            <description/>
+            <tags/>
+            <detail>
+               <field label="cep" name="cep" type="string"/>
+               <field label="logradouro" name="logradouro" type="string"/>
+               <field label="complemento" name="complemento" type="string"/>
+               <field label="bairro" name="bairro" type="string"/>
+               <field label="localidade" name="localidade" type="string"/>
+               <field label="uf" name="uf" type="string"/>
+               <field label="unidade" name="unidade" type="string"/>
+               <field label="ibge" name="ibge" type="string"/>
+               <field label="gia" name="gia" type="string"/>
+            </detail>
+         </processObject>
+      </types1:Entry>
+      <types1:GUID>3zkujhrjigkid0rw0DVWSB</types1:GUID>
+      <types1:DisplayName>PO-Correio</types1:DisplayName>
+   </types1:Item>
+   <types1:CurrentServerDateTime>2020-12-17T14:09:03.2Z</types1:CurrentServerDateTime>
+</aetgt:getResponse>

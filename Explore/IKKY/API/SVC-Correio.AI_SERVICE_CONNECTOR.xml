@@ -1,0 +1,99 @@
+<aetgt:getResponse xmlns:aetgt="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd"
+                   xmlns:types1="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd">
+   <types1:Item>
+      <types1:EntryId>yxKf3eFhBJQWSwx-gt-3146096-2020-10-15T12:23:28.392Z::svc.xml</types1:EntryId>
+      <types1:Name>SVC-Correio</types1:Name>
+      <types1:MimeType>application/xml+businesssconnector</types1:MimeType>
+      <types1:Description/>
+      <types1:AppliesTo/>
+      <types1:Tags/>
+      <types1:VersionLabel>1.0</types1:VersionLabel>
+      <types1:State>CURRENT</types1:State>
+      <types1:ProcessGroup/>
+      <types1:CreatedBy>LATAM_NA2</types1:CreatedBy>
+      <types1:CreationDate>2020-10-15T12:23:28Z</types1:CreationDate>
+      <types1:ModifiedBy>LATAM_NA2</types1:ModifiedBy>
+      <types1:ModificationDate>2020-12-17T14:03:27Z</types1:ModificationDate>
+      <types1:PublicationStatus>published</types1:PublicationStatus>
+      <types1:PublishedBy>LATAM_NA2</types1:PublishedBy>
+      <types1:PublicationDate>2020-12-17T14:03:31Z</types1:PublicationDate>
+      <types1:PublishedContributionId>project:/rt.connector/SVC_Correio/SVC_Correio_svcDef.xml</types1:PublishedContributionId>
+      <types1:AutosaveExists>false</types1:AutosaveExists>
+      <types1:Entry>
+         <businessConnector xmlns="http://schemas.informatica.com/socrates/data-services/2014/05/business-connector-model.xsd"
+                            agentOnly="false"
+                            debug="false"
+                            displayName="SVC-Correio"
+                            label=""
+                            name="SVC-Correio"
+                            uuid="bd5419d2-fe73-4666-b809-18d7c0602375">
+            <description/>
+            <tags/>
+            <connectionAttributes xmlns="http://schemas.informatica.com/appmodules/screenflow/2014/04/avosConnectors.xsd"/>
+            <actions>
+               <action category=""
+                       failOnError="true"
+                       forSearch="false"
+                       label="getCEP"
+                       maxRedirects="100"
+                       name="getCEP"
+                       preemptiveAuth="true"
+                       responseEncoding="">
+                  <description/>
+                  <input>
+                     <parameter name="inCEP"
+                                nogen="true"
+                                required="true"
+                                testWith="08240020"
+                                type="string"/>
+                  </input>
+                  <binding>
+                     <restSimpleBinding multiUsing="semicolonSeparated"
+                                        url="https://viacep.com.br/ws/{$inCEP}/json"
+                                        verb="GET">
+                        <httpHeaders>
+                           <header name="Content-Type">charset=UTF-8</header>
+                        </httpHeaders>
+                     </restSimpleBinding>
+                  </binding>
+                  <output>
+                     <field description="" name="out_cep" property="cep" type="string"/>
+                     <field description=""
+                            name="out_logradouro"
+                            property="logradouro"
+                            type="string"/>
+                     <field description=""
+                            name="out_complemento"
+                            property="complemento"
+                            type="string"/>
+                     <field description=""
+                            name="out_bairro"
+                            property="bairro"
+                            type="string"/>
+                     <field description=""
+                            name="out_localidade"
+                            property="localidade"
+                            type="string"/>
+                     <field description="" name="out_uf" property="uf" type="string"/>
+                     <field description=""
+                            name="out_unidade"
+                            property="unidade"
+                            type="string"/>
+                     <field description="" name="out_ibge" property="ibge" type="string"/>
+                     <field description="" name="out_gia" property="gia" type="string"/>
+                     <field description="" name="out_xml" type="reference" xmlElement=".">
+                        <options>
+                           <option name="referenceTo"/>
+                        </options>
+                     </field>
+                  </output>
+               </action>
+            </actions>
+            <objects/>
+         </businessConnector>
+      </types1:Entry>
+      <types1:GUID>1OuTJJlYNP0jruoMoNqnYf</types1:GUID>
+      <types1:DisplayName>SVC-Correio</types1:DisplayName>
+   </types1:Item>
+   <types1:CurrentServerDateTime>2020-12-17T14:09:03.189Z</types1:CurrentServerDateTime>
+</aetgt:getResponse>

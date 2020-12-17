@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "93kvCodXVUsi6pS4hTkJYa",
+    "name" : "APC-Correio",
+    "type" : "AI_CONNECTION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "RtFgpKi9zhFtybd-gt-2162921-2020-10-15T12:23:28.702Z::conn.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ {
+    "id" : "1OuTJJlYNP0jruoMoNqnYf",
+    "name" : "SVC-Correio",
+    "type" : "AI_SERVICE_CONNECTOR",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "yxKf3eFhBJQWSwx-gt-3146096-2020-10-15T12:23:28.392Z::svc.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/IKKY/API"
+  } ]
+}

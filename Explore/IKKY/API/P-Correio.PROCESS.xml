@@ -12,11 +12,11 @@
       <types1:ProcessGroup/>
       <types1:CreatedBy>LATAM_NA2</types1:CreatedBy>
       <types1:CreationDate>2020-10-15T12:23:29Z</types1:CreationDate>
-      <types1:ModifiedBy>LATAM_NA2</types1:ModifiedBy>
-      <types1:ModificationDate>2020-10-15T12:38:55Z</types1:ModificationDate>
+      <types1:ModifiedBy>ilanzana2@informatica.com.latam</types1:ModifiedBy>
+      <types1:ModificationDate>2021-03-15T18:47:07Z</types1:ModificationDate>
       <types1:PublicationStatus>out-of-date</types1:PublicationStatus>
-      <types1:PublishedBy>LATAM_NA2</types1:PublishedBy>
-      <types1:PublicationDate>2020-10-15T12:38:59Z</types1:PublicationDate>
+      <types1:PublishedBy>ilanzana2@informatica.com.latam</types1:PublishedBy>
+      <types1:PublicationDate>2021-03-15T18:43:18Z</types1:PublicationDate>
       <types1:PublishedContributionId>project:/spi.P-Correio/P-Correio.pd.xml</types1:PublishedContributionId>
       <types1:AutosaveExists>false</types1:AutosaveExists>
       <types1:Entry>
@@ -146,8 +146,8 @@
                <ns1:Name>test</ns1:Name>
                <ns1:CreatedBy>LATAM_NA2</ns1:CreatedBy>
                <ns1:CreationDate>2020-10-15T12:23:29Z</ns1:CreationDate>
-               <ns1:ModifiedBy>LATAM_NA2</ns1:ModifiedBy>
-               <ns1:ModifiedDate>2020-10-15T12:23:29Z</ns1:ModifiedDate>
+               <ns1:ModifiedBy>ilanzana2@informatica.com.latam</ns1:ModifiedBy>
+               <ns1:ModifiedDate>2021-03-15T18:47:07Z</ns1:ModifiedDate>
                <ns1:Data format="json">{
 	 "in_CEP": "08240000"
 }</ns1:Data>
@@ -157,5 +157,5 @@
       <types1:GUID>1V9olwxzv0BgkjDFSUCnSA</types1:GUID>
       <types1:DisplayName>P-Correio</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2021-03-15T18:39:52.312Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2021-03-15T18:47:29.313Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>

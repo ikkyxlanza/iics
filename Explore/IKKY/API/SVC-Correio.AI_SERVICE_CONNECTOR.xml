@@ -14,10 +14,10 @@
       <types1:CreatedBy>LATAM_NA2</types1:CreatedBy>
       <types1:CreationDate>2020-10-15T12:23:28Z</types1:CreationDate>
       <types1:ModifiedBy>ilanzana2@informatica.com.latam</types1:ModifiedBy>
-      <types1:ModificationDate>2021-03-15T18:47:07Z</types1:ModificationDate>
+      <types1:ModificationDate>2021-03-15T19:19:54Z</types1:ModificationDate>
       <types1:PublicationStatus>out-of-date</types1:PublicationStatus>
       <types1:PublishedBy>ilanzana2@informatica.com.latam</types1:PublishedBy>
-      <types1:PublicationDate>2021-03-15T18:43:11Z</types1:PublicationDate>
+      <types1:PublicationDate>2021-03-15T18:55:44Z</types1:PublicationDate>
       <types1:PublishedContributionId>project:/rt.connector/SVC_Correio/SVC_Correio_svcDef.xml</types1:PublishedContributionId>
       <types1:AutosaveExists>false</types1:AutosaveExists>
       <types1:Entry>
@@ -96,5 +96,5 @@
       <types1:GUID>1OuTJJlYNP0jruoMoNqnYf</types1:GUID>
       <types1:DisplayName>SVC-Correio</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2021-03-15T18:47:29.213Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2021-03-15T19:20:45.122Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>

@@ -5,7 +5,7 @@
       <types1:Name>APC-Correio</types1:Name>
       <types1:ParentFlowIds>34XutaaabbgdoGs-gt-2154711-2020-10-15T12:23:28.871Z::pd.xml</types1:ParentFlowIds>
       <types1:MimeType>application/xml+connection</types1:MimeType>
-      <types1:Description/>
+      <types1:Description>New Description</types1:Description>
       <types1:AppliesTo/>
       <types1:Tags/>
       <types1:VersionLabel>1.0</types1:VersionLabel>
@@ -14,10 +14,10 @@
       <types1:CreatedBy>LATAM_NA2</types1:CreatedBy>
       <types1:CreationDate>2020-10-15T12:23:29Z</types1:CreationDate>
       <types1:ModifiedBy>ilanzana2@informatica.com.latam</types1:ModifiedBy>
-      <types1:ModificationDate>2021-03-15T18:47:07Z</types1:ModificationDate>
+      <types1:ModificationDate>2021-03-15T19:20:22Z</types1:ModificationDate>
       <types1:PublicationStatus>out-of-date</types1:PublicationStatus>
       <types1:PublishedBy>ilanzana2@informatica.com.latam</types1:PublishedBy>
-      <types1:PublicationDate>2021-03-15T18:43:23Z</types1:PublicationDate>
+      <types1:PublicationDate>2021-03-15T18:55:07Z</types1:PublicationDate>
       <types1:PublishedContributionId>project:/rt.connection/APC-Correio/APC-Correio.conn.xml</types1:PublishedContributionId>
       <types1:AutosaveExists>false</types1:AutosaveExists>
       <types1:Entry>
@@ -25,7 +25,7 @@
                      displayName="APC-Correio"
                      label="APC-Correio"
                      name="APC-Correio">
-            <description/>
+            <description>New Description</description>
             <tags/>
             <agent/>
             <attributes/>
@@ -43,5 +43,5 @@
       <types1:GUID>93kvCodXVUsi6pS4hTkJYa</types1:GUID>
       <types1:DisplayName>APC-Correio</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2021-03-15T18:47:29.266Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2021-03-15T19:20:45.246Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>

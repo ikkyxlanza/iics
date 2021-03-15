@@ -3,6 +3,7 @@
    <types1:Item>
       <types1:EntryId>yxKf3eFhBJQWSwx-gt-3146096-2020-10-15T12:23:28.392Z::svc.xml</types1:EntryId>
       <types1:Name>SVC-Correio</types1:Name>
+      <types1:ParentFlowIds>RtFgpKi9zhFtybd-gt-2162921-2020-10-15T12:23:28.702Z::conn.xml</types1:ParentFlowIds>
       <types1:MimeType>application/xml+businesssconnector</types1:MimeType>
       <types1:Description/>
       <types1:AppliesTo/>
@@ -95,5 +96,5 @@
       <types1:GUID>1OuTJJlYNP0jruoMoNqnYf</types1:GUID>
       <types1:DisplayName>SVC-Correio</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2021-03-15T18:30:57.39Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2021-03-15T18:39:52.091Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>

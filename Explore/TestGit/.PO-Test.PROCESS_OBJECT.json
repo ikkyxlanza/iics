@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "100VAHRHZrLh6bND3RjuGi",
+    "name" : "PO-Test",
+    "type" : "PROCESS_OBJECT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "MSPvSzYLnzYLnzY-gt-3279700-2021-03-17T13:41:04.361Z::po.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ ]
+}

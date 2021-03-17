@@ -4,7 +4,7 @@
       <types1:EntryId>MSPvSzYLnzYLnzY-gt-3279700-2021-03-17T13:41:04.361Z::po.xml</types1:EntryId>
       <types1:Name>PO-Test</types1:Name>
       <types1:MimeType>application/xml+processobject</types1:MimeType>
-      <types1:Description/>
+      <types1:Description>add description</types1:Description>
       <types1:AppliesTo/>
       <types1:Tags/>
       <types1:VersionLabel>1.0</types1:VersionLabel>
@@ -12,7 +12,8 @@
       <types1:ProcessGroup/>
       <types1:CreatedBy>ilanzana2@informatica.com.latam</types1:CreatedBy>
       <types1:CreationDate>2021-03-17T13:41:04Z</types1:CreationDate>
-      <types1:ModifiedBy/>
+      <types1:ModifiedBy>LATAM_NA2</types1:ModifiedBy>
+      <types1:ModificationDate>2021-03-17T13:43:39Z</types1:ModificationDate>
       <types1:PublicationStatus>unpublished</types1:PublicationStatus>
       <types1:AutosaveExists>false</types1:AutosaveExists>
       <types1:Entry>
@@ -20,7 +21,7 @@
                         displayName="PO-Test"
                         isByCopy="true"
                         name="PO-Test">
-            <description/>
+            <description>add description</description>
             <tags/>
             <detail>
                <field label="name" name="name" type="string"/>
@@ -30,5 +31,5 @@
       <types1:GUID>100VAHRHZrLh6bND3RjuGi</types1:GUID>
       <types1:DisplayName>PO-Test</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2021-03-17T13:41:36.292Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2021-03-17T13:43:55.04Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>

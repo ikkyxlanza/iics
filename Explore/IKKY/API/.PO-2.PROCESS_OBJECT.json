@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "eqvZcA78TM7bvN3jo2SuGv",
+    "name" : "PO-2",
+    "type" : "PROCESS_OBJECT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "xZmtK9hCHbf2XZP-gt-567595-2021-03-18T18:52:03.838Z::po.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ ]
+}

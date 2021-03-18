@@ -4,7 +4,7 @@
       <types1:EntryId>YNmumf6S3wOLIFv-gt-3142028-2021-03-18T18:46:52.822Z::svc.xml</types1:EntryId>
       <types1:Name>ServiceConnector1</types1:Name>
       <types1:MimeType>application/xml+businesssconnector</types1:MimeType>
-      <types1:Description/>
+      <types1:Description>add description</types1:Description>
       <types1:AppliesTo/>
       <types1:Tags/>
       <types1:VersionLabel>1.0</types1:VersionLabel>
@@ -12,7 +12,8 @@
       <types1:ProcessGroup/>
       <types1:CreatedBy>LATAM_NA2</types1:CreatedBy>
       <types1:CreationDate>2021-03-18T18:46:53Z</types1:CreationDate>
-      <types1:ModifiedBy/>
+      <types1:ModifiedBy>LATAM_NA2</types1:ModifiedBy>
+      <types1:ModificationDate>2021-03-18T18:48:14Z</types1:ModificationDate>
       <types1:PublicationStatus>unpublished</types1:PublicationStatus>
       <types1:AutosaveExists>false</types1:AutosaveExists>
       <types1:Entry>
@@ -23,7 +24,7 @@
                             label=""
                             name="ServiceConnector1"
                             uuid="9215452c-c82a-4563-beb5-166983d3d9a1">
-            <description/>
+            <description>add description</description>
             <tags/>
             <connectionAttributes xmlns="http://schemas.informatica.com/appmodules/screenflow/2014/04/avosConnectors.xsd"/>
             <actions>
@@ -51,5 +52,5 @@
       <types1:GUID>84o4fcOcR4ReHVyP05pKIY</types1:GUID>
       <types1:DisplayName>ServiceConnector1</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2021-03-18T18:47:35.959Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2021-03-18T18:48:32.351Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>

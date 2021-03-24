@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "1LCUV5HZaanhbCvFoXljaY",
+    "name" : "ProcessObject1",
+    "type" : "PROCESS_OBJECT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "AZFIKUzeA8rJ4pb-gt-3951860-2021-03-24T12:30:37.422Z::po.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ ]
+}

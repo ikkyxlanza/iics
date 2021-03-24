@@ -4,7 +4,7 @@
       <types1:EntryId>AZFIKUzeA8rJ4pb-gt-3951860-2021-03-24T12:30:37.422Z::po.xml</types1:EntryId>
       <types1:Name>ProcessObject1</types1:Name>
       <types1:MimeType>application/xml+processobject</types1:MimeType>
-      <types1:Description/>
+      <types1:Description>descrição</types1:Description>
       <types1:AppliesTo/>
       <types1:Tags/>
       <types1:VersionLabel>1.0</types1:VersionLabel>
@@ -13,7 +13,7 @@
       <types1:CreatedBy>LATAM_NA2</types1:CreatedBy>
       <types1:CreationDate>2021-03-24T12:30:37Z</types1:CreationDate>
       <types1:ModifiedBy>LATAM_NA2</types1:ModifiedBy>
-      <types1:ModificationDate>2021-03-24T13:37:02Z</types1:ModificationDate>
+      <types1:ModificationDate>2021-03-24T13:44:02Z</types1:ModificationDate>
       <types1:PublicationStatus>unpublished</types1:PublicationStatus>
       <types1:AutosaveExists>false</types1:AutosaveExists>
       <types1:Entry>
@@ -21,7 +21,7 @@
                         displayName="ProcessObject1"
                         isByCopy="true"
                         name="ProcessObject1">
-            <description/>
+            <description>descrição</description>
             <tags/>
             <detail>
                <field label="sda" name="sda" type="string"/>
@@ -31,5 +31,5 @@
       <types1:GUID>1LCUV5HZaanhbCvFoXljaY</types1:GUID>
       <types1:DisplayName>ProcessObject1</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2021-03-24T13:37:31.398Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2021-03-24T13:44:26.788Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>
